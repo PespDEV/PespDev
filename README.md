@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  -- Bota Uma Apresentação Aqui Pesp --
+  -- Olá, Sou PesP! --
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 - muda aqui pespo -
+  💌 mr. pesp#2023
 </p>
 
 ----
