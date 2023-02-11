@@ -24,4 +24,4 @@
 
 ----
 
-![banner](ttp://url/to/img.png](https://i.pinimg.com/564x/2d/a6/01/2da601ab857b77d00a08c768164f6329.jpg)
+![2da601ab857b77d00a08c768164f6329](https://i.pinimg.com/564x/2d/a6/01/2da601ab857b77d00a08c768164f6329.jpg)
