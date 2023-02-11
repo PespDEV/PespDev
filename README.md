@@ -13,5 +13,11 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: - muda aqui pespo -
+  💌 - muda aqui pespo -
 </p>
+
+----
+
+[![PespDEV](https://github-readme-stats.vercel.app/api?username=PespDEV&theme=dracula)](https://github.com/PespDEV)
+
+[![PespDEV](https://github-readme-stats.vercel.app/api/top-langs/?username=PespDEV&hide=html&layout=compact&theme=dracula)](https://github.com/PespDEV)
