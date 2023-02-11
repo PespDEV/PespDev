@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Node Js & Csharp</strong>
+  🦄 Linguagens: <strong>Node.js, C# & C++</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VsCode</strong>
+  💼 Ferramentas: <strong>Visual Studio Code & Visual Studio</strong>
 </p>
 
 <p align="left">
